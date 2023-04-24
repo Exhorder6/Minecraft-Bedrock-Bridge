@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@electron/remote": "^1.2.0",
-    "yaml": "^1.10.2"
+    "yaml": "^2.2.2"
   },
   "build": {
     "appId": "com.sirherobrine23.phantomgui",
